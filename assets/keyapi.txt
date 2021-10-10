@@ -1,0 +1,20 @@
+3ff34c00460d42828ea13fd3c5ccf50d
+https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=3ff34c00460d42828ea13fd3c5ccf50d
+https://newsapi.org/v2/everything?q=tesla&apiKey=3ff34c00460d42828ea13fd3c5ccf50d
+base url = "https://newsapi.org/"
+url(method) = 'v2/top-headlines'
+query =
+{
+ country=us
+ category=business
+ api key = 3ff34c00460d42828ea13fd3c5ccf50d
+}
+
+baseurl = "https://newsapi.org/"
+url(method) = "v2/everything"
+query =
+{
+"q" : "tesla"
+'apiKey'="3ff34c00460d42828ea13fd3c5ccf50d"
+}
+

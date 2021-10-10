@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480470024716",
+    "project_id": "flutter-course-c845d",
+    "storage_bucket": "flutter-course-c845d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480470024716:android:7dd09d0b0bcdaafc27a429",
+        "android_client_info": {
+          "package_name": "com.example.course_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480470024716-j4t5pisvgfrh8ail272oabcp1vo6n816.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.course_flutter",
+            "certificate_hash": "76ce9240281ac7d6360b2e95759c6c219d062224"
+          }
+        },
+        {
+          "client_id": "480470024716-lpjd9dql8k523d6padl2gsmlanmagos5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08SRP4wV4YDRXQFh_-3VLK3xho79u8dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480470024716-lpjd9dql8k523d6padl2gsmlanmagos5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
